@@ -6,7 +6,7 @@ from cinema_pool.models import convert
 base_path = "https://api.themoviedb.org/3"
 images_base_path = "https://image.tmdb.org/t/p/w500"
 # The Movie Database API key
-api_key = "978eec01765e57ca76a06d2042e53b25"
+api_key = "YOUR_API_KEY"
 # Path for trending movies for a week
 trending_path = base_path + "/trending/movie/week"
 # Ptah for get all available genres of the movies so that we can fetch movies by the genres.
