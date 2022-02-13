@@ -6,6 +6,9 @@
 ### Have a look here.
 
 ## Sample Image
+|1|2|
+|-|-|
+|![Capture](https://user-images.githubusercontent.com/57620850/153748713-cb5732c5-dc02-4741-8e02-d7098c633b65.PNG)|![Capture1](https://user-images.githubusercontent.com/57620850/153748715-0a38288f-7315-4a0b-afc6-3349bcfb9c7c.PNG)|
 
 
 ## Features
